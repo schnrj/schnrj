@@ -17,62 +17,48 @@ Full Stack Developer from India, passionate about building scalable web apps and
 
 ### What I do
 
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing web
-development, it is in my opinion the best combination of logical programming and
-(sometimes) beautiful design.
+I’m currently working on projects using the MERN stack and improving my skills in Data Structures and Algorithms (DSA). I’m passionate about Open Source and looking forward to contributing to meaningful projects. I enjoy building web apps and solving problems through coding.
 
-## My skills 📜
+## My Skills 📜
 
-### Web technologies
-
+### Web Technologies
 - JavaScript
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- TypeScript
-- Next.js
-- Prisma
+- Node.js
+- Express.js
+- React
 - HTML, CSS
-  ([Microsoft Certified](https://www.youracclaim.com/badges/6d5a4a58-c895-4d7e-a725-db1441e9d979/public_url))
-- SCSS
-- Node.js ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- Deno
-- WordPress
-  ([LinkedIn Assesments Certified](https://www.linkedin.com/in/filiptronicek/))
-- PHP
+- MongoDB
 - MySQL
-- Microsoft Azure ([AZ 900 Certification](https://www.credly.com/badges/1da5ef87-dc8f-4aeb-8870-c19d0e020895/public_url))
 
 ### Application Development
+- C++ (Proficient)
+- Python (Proficient)
 
-- Python ([Microsoft Certified](https://www.youracclaim.com/badges/46b260a8-ef2c-41a3-9f61-aa0920eab84a/public_url))
-- C++ (sort of)
+### Machine Learning
+- TensorFlow
+- NumPy
+- Pandas
 
-### Productivity utilities
-
-- Microsoft Office - I am a Certified
-  [Excel](https://www.youracclaim.com/badges/36154164-82b5-4fbf-b65c-c152af720245/public_url)
-  and
-  [Word](https://www.youracclaim.com/badges/6f4eee1d-3379-4a8b-b846-35762708d4b8/public_url)
-  Expert
 
 ### Languages 🌐
 
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
-| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Czech         | Native language                                                           |
+| Language      | Proficiency |
+| ------------- | ----------- |
+| English       | C2          |
+| Hindi         | C2          |
 
-## What I'm currently learning 📚
+## What I'm Currently Learning 📚
 
-- Diving into VS Code's code base
-- Typescript's magic
-- Rust's blazing-fastness
+- Exploring more in development and working on building something great
+- Diving into Deep Learning
+- Experimenting with JavaScript
 
-## My own dictionary 📕:
+## You Can Connect With Me At 📬
 
-| Word / abreviation | Meaning                                                | Note                                             |
-| ------------------ | ------------------------------------------------------ | ------------------------------------------------ |
-| FFO                | Fífa Friendly Office (a place where I can work safely) | Idea by [@aellopos](https://github.com/aellopos) |
+| Platform  | Link                                             |
+| --------- | ------------------------------------------------ |
+| LeetCode  | [My LeetCode Profile](https://leetcode.com/u/Sachin___Raj/) |
+| LinkedIn  | [My LinkedIn Profile](https://www.linkedin.com/in/sachin-raj-202a55256/) |
+| GitHub    | [My GitHub Profile](https://github.com/schnrj) |
+| Portfolio | [My Portfolio](https://your-portfolio-link.com/) |
 
-</details>
