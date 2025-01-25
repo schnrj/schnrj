@@ -60,5 +60,5 @@ I’m currently working on projects using the MERN stack and improving my skills
 | LeetCode  | [My LeetCode Profile](https://leetcode.com/u/Sachin___Raj/) |
 | LinkedIn  | [My LinkedIn Profile](https://www.linkedin.com/in/sachin-raj-202a55256/) |
 | GitHub    | [My GitHub Profile](https://github.com/schnrj) |
-| Portfolio | [My Portfolio](https://your-portfolio-link.com/) |
+| Portfolio | [My Portfolio](https://sachin-raj-portfolio-lxf7.vercel.app/) |
 
