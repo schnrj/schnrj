@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-Full Stack Developer from India, passionate about building scalable web apps and exploring new technologies. Check out my work on GitHub!
+Full Stack Developer from IIT JODHPUR, passionate about building scalable web apps and exploring new technologies. Check out my work on GitHub!
 
 
 <details>
