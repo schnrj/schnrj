@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-Full Stack Developer from IIT JODHPUR, passionate about building scalable web apps and exploring new technologies. Check out my work on GitHub!
+Open Source Enthusiast & Full Stack Developer from IIT JODHPUR, passionate about building scalable web apps and exploring new technologies. Check out my work on GitHub!
 
 
 <details>
